@@ -1,0 +1,8 @@
+.togo{
+    height: 100vh;
+}
+
+.category::after{
+   content: "⭐⭐⭐⭐⭐";
+  
+}
