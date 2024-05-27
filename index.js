@@ -23,7 +23,7 @@ save()
 list.addEventListener("click" ,function(e){
     e.target.remove()
    
-
+save()
     
 } )
 
